@@ -1,4 +1,4 @@
-package main
+package ssdb_test
 
 import "fmt"
 import "os"
